@@ -1,7 +1,10 @@
 
-int x = 23;
+int x = 456;
 int y = 34;
 
 int temp = x;
 x = y;
 y = temp;
+
+int a = 23;
+
