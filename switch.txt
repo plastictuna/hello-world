@@ -1,0 +1,7 @@
+
+int x = 23;
+int y = 34;
+
+int temp = x;
+x = y;
+y = temp;
