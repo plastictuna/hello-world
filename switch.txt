@@ -7,4 +7,5 @@ x = y;
 y = temp;
 
 int a = 23;
-
+int b = 57;
+int c = 98;
