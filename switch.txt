@@ -10,3 +10,4 @@ int a = 23;
 int b = 57;
 int c = 98;
 
+String today = "Tuesday";
